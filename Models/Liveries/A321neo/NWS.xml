@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Nordwind Airlines</name>
+				<neo-texture>Liveries/A321neo-NWS.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>

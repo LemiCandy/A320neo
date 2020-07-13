@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Iberia</name>
+				<neo-texture>Liveries/A321neo-IBE.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>

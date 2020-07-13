@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Aegean New</name>
+				<neo-texture>Liveries/A321neo-AEE2.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>

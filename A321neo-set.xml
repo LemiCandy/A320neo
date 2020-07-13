@@ -3,7 +3,7 @@
 <PropertyList include="A320neo-common.xml">
 <!-- A321 WV011 -->
 	<sim>
-		<description>Airbus A321NEO With Sharklets and CFM LEAP-X High ByPass Turbofan Engine</description>
+		<description>Airbus A321neo</description>
 		<!-- Plus A320neo-common.xml author and status -->
 		<flight-model>jsb</flight-model>
 		<aero>A321neo</aero>

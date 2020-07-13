@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<sim>
+		<model>
+			<livery>
+				<name>Chair Airlines</name>
+				<neo-texture>Liveries/A319neo-GSW.png</neo-texture>
+			</livery>
+		</model>
+	</sim>
+</PropertyList>

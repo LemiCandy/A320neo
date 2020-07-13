@@ -3,7 +3,7 @@
 <PropertyList include="A320neo-common.xml">
 
 	<sim>
-		<description>Airbus Airbus A319neo</description>
+		<description>Airbus A319neo</description>
 		<!-- Plus A320neo-common.xml author and status -->
 		<flight-model>jsb</flight-model>
 		<aero>A319neo</aero>

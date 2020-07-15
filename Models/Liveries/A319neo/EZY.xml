@@ -4,8 +4,8 @@
 	<sim>
 		<model>
 			<livery>
-				<name>Austrian Airlines</name>
-				<neo-texture>Liveries/A319neo-AUA.png</neo-texture>
+				<name>EasyJet</name>
+				<neo-texture>Liveries/A319neo-EZY.png</neo-texture>
 			</livery>
 		</model>
 	</sim>
